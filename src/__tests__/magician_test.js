@@ -1,4 +1,4 @@
-import Magician from "../js/Magician";
+import Magician from "../js/magician";
 
 describe('Magician', () => {
     describe('create Magician', () => {

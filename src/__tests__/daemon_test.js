@@ -1,4 +1,4 @@
-import Daemon from "../js/Daemon";
+import Daemon from "../js/daemon";
 
 describe('Daemon', () => {
     describe('create Daemon', () => {

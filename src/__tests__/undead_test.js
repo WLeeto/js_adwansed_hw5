@@ -1,4 +1,4 @@
-import Undead from "../js/Undead";
+import Undead from "../js/undead";
 
 describe('Undead', () => {
     describe('create Undead', () => {

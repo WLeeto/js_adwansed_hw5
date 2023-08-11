@@ -5,7 +5,7 @@ import Swordsman from '../js/swordsman';
 describe('Character', () => {
     describe('constructor', () => {
         it('should create a character with the given properties', () => {
-            const character = new Character('Alice', 'Swordsman', 30, 15);
+            const character = new Character('Alice', 'Swordsman');
             const correct = {attack: undefined, defence: undefined, level: 1, health: 100, type: 'Swordsman', name: 'Alice'}
             expect(character).toEqual(correct);
         });

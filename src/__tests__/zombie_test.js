@@ -1,4 +1,4 @@
-import Zombie from "../js/Zombie";
+import Zombie from "../js/zombie";
 
 describe('Zombie', () => {
     describe('create Zombie', () => {
